@@ -17,6 +17,7 @@ const Register = () => {
 
     const userData = {
       username, email, password
+      
     }
 
     try{
